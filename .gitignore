@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# KiCad local history (has its own .git)
+hardware/.history/
